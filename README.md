@@ -1,4 +1,11 @@
-# Hi there, I'm Dileep Meena 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
+</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&color=800080&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
+</h1>
+
 
 ## About Me
 I'm a passionate full-stack developer with a love for creating dynamic and responsive web applications. With experience in both front-end and back-end technologies, I strive to deliver seamless user experiences.
@@ -24,6 +31,6 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DileepMeena6531&layout=compact&theme=radical)
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/janedoe)
-- [Twitter](https://twitter.com/janedoe)
-- [Personal Website](https://janedoe.dev)
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
+- [Personal Website](https://dileepportfolio.onrender.com/)
