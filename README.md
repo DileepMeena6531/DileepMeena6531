@@ -1,9 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&color=800080&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer!+👋;+Backend+Developer!;+Full-Stack+Developer!;" />
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&color=1E90FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&color=800080&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&color=32CD32&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dileep+Meena!;" />
 </h1>
 
 
