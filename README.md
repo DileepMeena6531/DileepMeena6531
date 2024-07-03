@@ -45,7 +45,6 @@ I'm a passionate full-stack developer with a love for creating dynamic and respo
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?
 
 ## Projects
 ### [Airbnb_Clone](https://github.com/DileepMeena6531/Airbnb_clone)
